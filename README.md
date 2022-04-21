@@ -1,4 +1,7 @@
-# Scalable measures of magic for quantum computers
+# Measuring Bell magic with quantum computers
+
+Code for "Scalable measures of magic for quantum computers" by Tobias Haug, M.S. Kim.
+
 Magic is a necessary condition for quantum advantage and an important resource for fault-tolerant quantum computers.
 This code provides a scalable measurement method to measure Bell magic of quantum states prepared on a quantum computer.
 
