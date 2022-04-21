@@ -1,4 +1,4 @@
-# Measuring Bell magic with quantum computers
+# Measuring magic with quantum computers
 
 Code for "Scalable measures of magic for quantum computers" by Tobias Haug, M.S. Kim.
 
