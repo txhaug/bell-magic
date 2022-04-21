@@ -2,6 +2,7 @@
 
 Code for "Scalable measures of magic for quantum computers" by Tobias Haug, M.S. Kim.
 
+Magic quantifies the distance of a quantum state to the set of stabilizer states, a class of states that can be efficiently computed with classical computers.
 Magic is a necessary condition for quantum advantage and an important resource for fault-tolerant quantum computers.
 This code provides a scalable measurement method to measure Bell magic of quantum states prepared on a quantum computer.
 
